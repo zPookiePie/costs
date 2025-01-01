@@ -4,7 +4,7 @@ Este projeto foi criado utilizando o framework ReactJS juntamente com o JSON-Ser
 
 ## <> Comandos
 
-No diretório desse projeto, você pode executar:
+No terminal, você pode executar:
 
 ``` bash
 git clone https://github.com/zPookiePie/costs.git
