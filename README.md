@@ -6,6 +6,13 @@ Este projeto foi criado utilizando o framework ReactJS juntamente com o JSON-Ser
 
 No diretório desse projeto, você pode executar:
 
+``` bash
+git clone https://github.com/zPookiePie/costs.git
+cd costs
+npm install
+```
+
+Para rodar o projeto na sua máquina
 ```
 npm start
 npm run backend
