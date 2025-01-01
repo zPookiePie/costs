@@ -1,0 +1,30 @@
+.loader_container{
+    box-sizing: border-box;
+    width: 100%;
+    height: 75%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loader_container img{
+    width: 50px;
+}
+
+@media (max-width: 700px) {
+    .loader_container {
+        width: 50%;
+    }
+}
+
+@media (max-width: 420px) {
+    .loader_container {
+        width: 30%;
+    }
+}
+
+@media (max-width: 375px) {
+    .loader_container {
+        width: 25%;
+    }
+}

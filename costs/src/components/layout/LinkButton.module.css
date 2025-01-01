@@ -1,0 +1,17 @@
+.btn {
+    background-color: #222;
+    color: #fff;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.btn:hover {
+    color: #ffbb33;
+}
+
+@media (max-width: 420px) {
+    .btn {
+        padding: 0.1em 0.5em;
+    }
+}
